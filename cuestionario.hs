@@ -1,6 +1,8 @@
 {-# LANGUAGE BlockArguments #-}
 
 
+
+
 principalMenu :: [Char]
 principalMenu = "Cuestionarios \n" ++ 
                 "1-Crear encuestas\n" ++
